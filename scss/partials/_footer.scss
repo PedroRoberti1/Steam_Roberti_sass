@@ -1,0 +1,44 @@
+//variables
+
+    $color-letra: aliceblue;
+
+    
+
+    /* <!----------------------------------------// Footer //----------------------------------------> */
+footer{
+    text-align: center;  
+    width: 100%;
+    padding: 1%;
+    background-color: rgba(0, 38, 255, 0.137);
+    position:fixed;
+    bottom: 0%;
+}
+
+footer p{
+    color: $color-letra;
+}
+
+.div__footer{
+    margin-top: -2%;
+}
+
+.div__footer {
+
+    position: fixed;
+    width: 100vw;
+    top: 97%;
+    color: rgba(240, 255, 255, 0.979);
+
+}
+
+.img__footer {
+    position: fixed;
+    left: 95%;
+
+}
+
+.img__footer1 {
+    position: fixed;
+    left: 92%;
+
+}

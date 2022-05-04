@@ -1,0 +1,60 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  outline: 0;
+  box-sizing: border-box; }
+
+body {
+  background: url(../assets/img/steam.png);
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: "Open Sans"; }
+
+/* <!----------------------------------------// BODY SECCIONES //----------------------------------------> */
+.body {
+  background: url(../assets/img/fondo_steam_2.png);
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: "Open Sans"; }
+
+.div__logo img {
+  width: 50%; }
+
+/* <!----------------------------------------// Footer //----------------------------------------> */
+footer {
+  text-align: center;
+  width: 100%;
+  padding: 1%;
+  background-color: rgba(0, 38, 255, 0.137);
+  position: fixed;
+  bottom: 0%; }
+
+footer p {
+  color: aliceblue; }
+
+.div__footer {
+  margin-top: -2%; }
+
+.div__footer {
+  position: fixed;
+  width: 100vw;
+  top: 97%;
+  color: rgba(240, 255, 255, 0.979); }
+
+.img__footer {
+  position: fixed;
+  left: 95%; }
+
+.img__footer1 {
+  position: fixed;
+  left: 92%; }
+
+/* <!----------------------------------------// Inicio //----------------------------------------> */
+.main a {
+  position: absolute;
+  top: 55%;
+  left: 46%; }
